@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Kang Didi!
 
-<!--
-**kangdidipro/kangdidipro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Automation & Cloud Infrastructure Engineer
+I build tools that bridge the gap between cloud infrastructure and business automation. 
 
-Here are some ideas to get you started:
+- 🛠 **Automation:** Specialized in Python, Playwright, and Web Scraping (Check out [G-LANCE](https://github.com/kangdidipro/google-maps-lead-extractor)!)
+- ☁ **Cloud:** Terraform Practitioner & Infrastructure as Code Enthusiast.
+- 📧 **Contact:** kangdidipro@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+- **Languages:** Python, TypeScript, PHP
+- **Tools:** Terraform, Docker, Playwright, Pandas
+- **Cloud:** AWS/GCP/Azure (Infrastructure as Code)
+
+---
+
+### 📈 Featured Project
+**[G-LANCE: Google Maps Lead Extractor](https://github.com/kangdidipro/google-maps-lead-extractor)**
+*A professional-grade B2B lead generation engine built with Python.*

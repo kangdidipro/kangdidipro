@@ -18,5 +18,6 @@ I build tools that bridge the gap between cloud infrastructure and business auto
 
 ### 📈 Featured Project
 **Real-Time Computer Vision & Video Analytics (https://github.com/kangdidipro/visionstream-ai)**
+---
 **[G-LANCE: Google Maps Lead Extractor](https://github.com/kangdidipro/google-maps-lead-extractor)**
 *A professional-grade B2B lead generation engine built with Python.*
